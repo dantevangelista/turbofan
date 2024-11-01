@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/dantevangelista/turbofan/blob/main/graphix/logo.png" />
 </p>
 
 <p align="center">
-  <img src="" />
+  <img src="https://github.com/dantevangelista/turbofan/blob/main/graphix/logo2.png" />
 </p>
 
 
